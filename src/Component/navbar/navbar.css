@@ -1,0 +1,16 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: #333; /* Background color for the navbar */
+    color: #fff; /* Text color */
+    height: 60px; /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px; /* Adjust font size as needed */
+    font-weight: bold; /* Adjust font weight as needed */
+  }
+  
